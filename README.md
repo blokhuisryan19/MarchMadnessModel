@@ -109,7 +109,7 @@ Boise State vs Colorado State: Colorado State: CORRECT
 
 The impressive predictions in this bracket, in my opinion, are the Championship Game, Winner, and the incredible run NC State had to the Final Four as an 11 seed. In total, of the 67 games played for March Madness, the model was able to correcty pick 48 of them. This seems less impressive than it is as to predict the next games, it had to get the previous games correct otherwise it would/could have predicted the next games wrong.
 
-However that is not the end of the story. I also created a second model that was the same as the first iteration. This one only had the basic stats of the teams. This means it excluded Pace, ORtg, FTr, 3PAr, TS_Perc, TRB_Perc, AST_Perc, STL_Perc, BLK_Perc, eFG_Perc, TOV_Perc, ORB_Perc, and FT.FGA. It did better than the model with advanced stats. That model scored a Total of 1540 points, was also in the 99.9th percentile, and ranked 9,998. However it only got 46 of 67 games correct. The bracket is below:  
+However that is not the end of the story. I also created a second model that was the same as the first iteration. This one only had the basic stats of the teams. This means it excluded Pace, ORtg, FTr, 3PAr, TS_Perc, TRB_Perc, AST_Perc, STL_Perc, BLK_Perc, eFG_Perc, TOV_Perc, ORB_Perc, and FT.FGA. It did better than the model with advanced stats. That model scored a Total of 1540 points, was also in the 99.9th percentile, and ranked 9,996th. However it only got 46 of 67 games correct. The bracket is below:  
 [ESPN Men's Tournament Challenge - Brackets - Basic Stats.pdf](https://github.com/blokhuisryan19/MarchMadnessModel/files/14940943/ESPN.Men.s.Tournament.Challenge.-.Brackets.-.Basic.Stats.pdf)  
 
 
